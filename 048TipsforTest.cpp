@@ -45,6 +45,6 @@ int main ()
     cout<< total_price(4, 50) << endl; // return 180
     
     vector <int> avg = { 1,2,3,4,5};
-    cout << avg_price(avg, 5) << endl; 
+    cout << avg_price(avg, 5) << endl;  // returns 3; 
 return 0; 
 }

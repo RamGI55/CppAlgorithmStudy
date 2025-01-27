@@ -27,5 +27,8 @@
     <ClCompile Include="045CustomSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="046Sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

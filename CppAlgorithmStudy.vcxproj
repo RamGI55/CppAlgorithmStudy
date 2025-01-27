@@ -137,6 +137,7 @@
     </ClCompile>
     <ClCompile Include="044Unordered.cpp" />
     <ClCompile Include="045CustomSort.cpp" />
+    <ClCompile Include="046Sort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
